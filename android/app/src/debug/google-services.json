@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514355188327",
+    "project_id": "eshopvhrt",
+    "storage_bucket": "eshopvhrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514355188327:android:4d921cce4454261cc83ac2",
+        "android_client_info": {
+          "package_name": "com.vhrt.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514355188327-6rersuk3qlovu1a8gc88rqsdv88hacoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJi9ctYryhULdpgjc5RoHH-c2LicvAk-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514355188327-6rersuk3qlovu1a8gc88rqsdv88hacoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
